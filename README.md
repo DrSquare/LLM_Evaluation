@@ -29,4 +29,4 @@ Contributions are welcome! To contribute:
 This project is licensed under the MIT License. See `LICENSE` for more details.
 
 ## Contact
-For inquiries or support, open an issue or reach out to `your-email@example.com`.
+For inquiries or support, open an issue or reach out to `minha.hwang@gmail.com`.
