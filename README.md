@@ -4,9 +4,11 @@
 This repository contains a collection of presentation slides that I made for evaluating Large Language Models (LLMs), together with recent articles on LLM application evaluation. The slides provide a framework and measurement methods for model performance, evaluation metrics, and preference measurement methods.
 
 ## Features
+- Intro to LLM
+- LLM model summary
 - Slide decks covering various aspects of LLM evaluation
 - Detailed explanations of evaluation methodologies
-- 
+- Links to LLM evaluation framework 
 - Case studies and examples of model comparisons
 
 ## Usage
